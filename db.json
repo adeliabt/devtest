@@ -1,5 +1,6 @@
 {
   "offer": {
-    "id": "12345"
+    "id": "12345",
+    "status": "Accepted"
   }
 }
